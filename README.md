@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+### About Me
 
-You can use the [editor on GitHub](https://github.com/kekim2/kekim2.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My Goal of Career is to be Software Developer
+  -Graduate from 4 semesters of Electronic Engineering Technician(Computer)
+  -Wish to learn about new things and always have a passionate mind
+  -Strong and flexible communication and interpersonal skills allowing technical disscution with clarity
+  -Exellent leadership that be able to lead team and responsibility that be able to be trying in my scope of working 
 
 ### Markdown
 
